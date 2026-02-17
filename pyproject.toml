@@ -39,7 +39,7 @@ addopts = [
 ]
 
 [project.urls]
-Repository = "https://github.com/AndreM84/DibsData"
+Repository = "https://github.com/AndreM84/DibsData_AM"
 
 [tool.black]
 line-length = 88
